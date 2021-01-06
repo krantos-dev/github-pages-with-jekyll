@@ -1,5 +1,5 @@
-title: "Career Paths"
-date: 2021-01-06
+- title: "Career Paths"
+- date: 2021-01-06
 
 # Understanding careers in web design and development
 
