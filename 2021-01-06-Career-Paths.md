@@ -1,7 +1,7 @@
 ---
-title: "Career Paths"
-date: 2021-01-06
----
+       title: "Career-Paths"
+       date: 2021-01-06
+       ---
 # Understanding careers in web design and development
 
 - The Web recently celebrated its 31st birthday. Since its founding in 1989 as a single Web server at the CERN Research Institute, the Web has exploded and changed our lives dramatically. Jobs that were imagined are now legitimate career paths with plenty of opportunities and promotions to be had. So how can you get in on this action? Where do you start? How do you transition into it? Is it all so code-ish, or are there jobs for those with less technical skills?
